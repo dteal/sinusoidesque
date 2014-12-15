@@ -7,6 +7,6 @@ What if, instead of looking at the coordinates of intersections on the unit circ
 
 This program achieves that goal. It allows one to find the corresponding sine and cosine functions for a circle, polygon, hand-drawn figure, or imported image (where the image edge is determined by the color difference from the center).
 
-The entire program is written in Java and encapsulated in the executable file "Sinusoidesque.jar" with no external dependencies. Several examples, with both the input figure and the resulting "trigonometric" functions, are included in the "Examples" folder.
+The entire program is written in Java and encapsulated in the executable file "Sinusoidesque.jar" with no external dependencies. Several examples, with both the input figure and the resulting "trigonometric" functions, are included in the "Examples" folder. The Java source code and their corresponding compiled files are available in the "Source" folder, which is formatted as an Eclipse project.
 
 This project, created in the fall of 2014 by Daniel Teal in LASA High School's class "Logic, Reasoning, and Proof" by Charlie Barnes, is available under the CC0 1.0 Universal license.
