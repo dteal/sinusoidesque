@@ -2,9 +2,7 @@ Sinusoidesque v1.0
 ==================
 
 Created by Daniel Teal
-
 Fall 2014 - LASA High School
-
 Logic, Reasoning, and Proof by Charlie Barnes
 
 Mr. Barnes personally believes the definitions of sine and cosine were probably arbitrary but serendipitous inventions. He thinks some bored Greek kid was just cooking up strange functions for fun one day around 250 BC, and sine and cosine happened to be two of them. It just so happened they turned out to be beautiful and so important as to be utterly inescapable in math and physics.
