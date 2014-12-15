@@ -9,6 +9,4 @@ This program achieves that goal. It allows one to find the corresponding sine an
 
 The entire program is written in Java and encapsulated in the executable file "Sinusoidesque.jar" with no external dependencies. Several examples, with both the input figure and the resulting "trigonometric" functions, are included in the "Examples" folder.
 
-Created 2014 by Daniel Teal in LASA High School's class "Logic, Reasoning, and Proof" by Charlie Barnes.
-
-This project is available under the CC0 1.0 Universal license.
+This project, created in the fall of 2014 by Daniel Teal in LASA High School's class "Logic, Reasoning, and Proof" by Charlie Barnes, is available under the CC0 1.0 Universal license.
